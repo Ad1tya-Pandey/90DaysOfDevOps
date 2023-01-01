@@ -1,2 +1,11 @@
-DevOps is a methodology which Involves practices to bridge the gap of Dev and ops team by using Open source automation build tools.
-These are the articles which I refered to,
+DevOps is a software development approach that aims to bridge the gap between software development and operations. It focuses on bringing developers and operations team together to build, test, and release software faster and more reliably.
+
+The goal of DevOps is to improve the collaboration and communication between these two teams and automate parts of the software delivery process. By doing so, it enables organizations to deliver software updates and features more quickly, with fewer errors and failures.
+
+Some of the key practices of DevOps include continuous integration, continuous delivery, and infrastructure as code. These practices help organizations to automate parts of the software delivery process and make it easier for them to deploy code changes quickly and safely.
+
+In summary, DevOps is a collaborative approach to software development that helps organizations deliver software updates and features faster and more reliably.
+
+-> Automation refers to the use of technology to perform tasks without human intervention.
+->Scaling refers to the ability of a system to handle an increasing amount of work or load. 
+->Infrastructure refers to the underlying foundation or basic structure of a system, such as the hardware and software resources that support the operation of a business or organization.
